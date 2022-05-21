@@ -1,0 +1,58 @@
+body {
+
+    background-image: url('Group\ 1.png');
+    height: 1100px;
+}
+
+h1 {
+    position: absolute;
+    left: 28px;
+    top: 5px;
+
+    font-family: 'Grenze Gotisch';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 58px;
+    line-height: 86px;
+
+
+
+    color: #000000;
+}
+
+.img1 {
+    position: absolute;
+width: 341px;
+height: 193px;
+left: 24px;
+top: 135px;
+
+border-radius: 17px;
+}
+
+.img2 {
+    position: absolute;
+width: 341px;
+height: 193px;
+left: 24px;
+top: 352px;
+border-radius: 17px;
+}
+
+.img3 {
+    position: absolute;
+width: 341px;
+height: 193px;
+left: 24px;
+top: 569px;
+border-radius: 17px;
+}
+
+.img4 {
+    position: absolute;
+width: 341px;
+height: 193px;
+left: 24px;
+top: 786px;
+border-radius: 17px;
+}
